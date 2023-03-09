@@ -1,0 +1,20 @@
+﻿  Main.c
+C:\GL\final\Main.c(43,1): warning C4026: fonction déclarée avec une liste de paramètres formels
+C:\GL\final\Main.c(264,32): warning C4087: 'Mix_CloseAudio' : déclaré avec une liste de paramètres 'void'
+C:\GL\final\Main.c(282,60): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int **' sont différents
+C:\GL\final\Main.c(282,49): warning C4024: 'first' : types différents pour le paramètre formel et réel 4
+C:\GL\final\Main.c(283,52): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\GL\final\Main.c(283,46): warning C4024: 'victory' : types différents pour le paramètre formel et réel 3
+C:\GL\final\Main.c(350,48): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\GL\final\Main.c(350,42): warning C4024: 'victory' : types différents pour le paramètre formel et réel 3
+C:\GL\final\Main.c(365,42): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int **' sont différents
+C:\GL\final\Main.c(365,31): warning C4024: 'tristan' : types différents pour le paramètre formel et réel 2
+C:\GL\final\Main.c(366,44): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\GL\final\Main.c(366,38): warning C4024: 'victory' : types différents pour le paramètre formel et réel 3
+C:\GL\final\Main.c(476,5): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\GL\final\Main.c(711,41): warning C4133: '=' : types incompatibles - de 'SDL_Surface *' à 'SDL_Texture *'
+C:\GL\final\Main.c(865,56): warning C4133: 'fonction' : types incompatibles - de 'SDL_Texture *' à 'SDL_Surface *'
+C:\GL\final\Main.c(866,25): warning C4133: 'fonction' : types incompatibles - de 'SDL_Texture *' à 'SDL_Surface *'
+C:\GL\final\Main.c(1055,25): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\GL\final\Main.c(1078,5): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+  final.vcxproj -> C:\GL\final\x64\Debug\final.exe
